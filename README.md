@@ -1,8 +1,5 @@
 SOFTENG 325 Assignment 01 - A Concert Booking Service
 ==========
-**NOTE:** This README contains the same content as the **PDF** handout you are given.
-
-The aim of this assignment is to build a Web service for concert booking. 
 
 System description
 ----------
